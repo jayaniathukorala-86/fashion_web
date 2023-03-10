@@ -86,7 +86,7 @@
                             echo "<tr style='border-bottom: 1px solid #B2AFAE;padding-bottom:2px;'>";
                             echo "<td style='padding-top:20px;padding-bottom:20px;'>",$count++, "</td>",
                             "<td >",$query_data[1], "</td>",
-                            "<td style='width:10%;'>",$query_data[2], "</td>",
+                            "<td style='width:15%;'>",$query_data[2], "</td>",
                             "<td style='width:40%;'>",$query_data[3], "</td>",
                             "<td>",$query_data[4], "</td>",
                             "<td><a href='#'>Reply</td>";
